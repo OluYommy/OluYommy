@@ -3,7 +3,7 @@
 **Database Analyst | SQL & BI Specialist | Supply Chain Systems**
 
 💼 5+ years in data-driven roles across supply chain, manufacturing, and tech  
-⚙️ Skilled in SQL, Power BI, and database optimization  
+⚙️ Skilled in SQL, Power BI, Tableau and database optimization  
 📈 Passionate about turning raw data into actionable insights
 
 ---
